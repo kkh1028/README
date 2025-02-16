@@ -15,33 +15,6 @@
     <li>Email: <a href="luedimosac1028@daum.net </a></li>
     <li>Phone: 010-3829-3841</li>
   </ul>
-  <h2>🖥️ SNS</h2>
-  <ul>
-    <li>
-      YouTube: 
-      <a href="https://www.youtube.com/playlist?list=PLPIG_UZvFW1aUdj-fLTnTUKoSGekMSg_L" target="_blank">
-        June_LAB_youtube
-      </a>
-    </li>
-    <li>
-      YouTube: 
-      <a href="https://www.youtube.com/playlist?list=PLPIG_UZvFW1ZzfJL8tVFMxeXSB57-W_xl" target="_blank">
-        June_presentation_youtube
-      </a>
-    </li>    
-    <li>
-      Drive: 
-      <a href="https://drive.google.com/drive/folders/1T60WDvJjvGeJLKMY-mb2frQHk92bJUR3?usp=drive_link" target="_blank">
-        June_portfolio_document
-      </a>
-    </li>
-    <li>
-      Velog: 
-      <a href="https://velog.io/@happy_lee0_0/posts" target="_blank">
-        happy_lee0_0.log
-      </a>
-    </li>
-  </ul>
   
   <h2>📚 Education</h2>
   <ul>
