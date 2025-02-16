@@ -3,12 +3,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C4EDF8&height=300&section=header&text=Engineer&desc=Who%20Turns%20Imagination%20into%20Reality&fontSize=90&descSize=50&fontColor=00008B&textAlignY=20&descAlignY=75" alt="Header Image">
+<img src="" alt="Header Image">
 
 <body>
 
-  <h1>이준혁</h1>
-  <p>메카트로닉스 공학부 | 인공지능융합전공</p>
+  <h1>김교희</h1>
+  <p>정밀기게공학과</p>
   
   <h2>📫 Contact</h2>
   <ul>
