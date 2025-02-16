@@ -12,8 +12,8 @@
   
   <h2>📫 Contact</h2>
   <ul>
-    <li>Email: <a href="mailto:leejh104@naver.com">leejh104@naver.com</a></li>
-    <li>Phone: 010-5240-2729</li>
+    <li>Email: <a href="luedimosac1028@daum.net </a></li>
+    <li>Phone: 010-3829-3841</li>
   </ul>
   <h2>🖥️ SNS</h2>
   <ul>
@@ -57,7 +57,9 @@
   
   <h2>📂 Projects</h2>
   <ul>
-    <li>2024.09 - 2025.11: Dosan Robotics Rokey bootcamp</li>
+    <li>2024.09 - 2025.02: Dosan Robotics Rokey bootcamp</li>
+    <li>2025.04 - 2025.06: MBC Academy Vision bootcamp</li>
+  
 
   </ul>
 
